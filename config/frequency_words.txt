@@ -1,18 +1,12 @@
-
-
-
-
-AMD
-
 谷歌
 google
 gemini
 deepmind
+deepseek
 
 chatgpt
 openai
 sora
-
 claude
 Anthropic
 
@@ -26,18 +20,8 @@ ai
 人工智能
 大模型
 自动驾驶
-
-机器人
-
-国产
-中国
-
-美国
-日本
-韩国
-
-芯片
-光刻机
+agent
+mcp
 
 科技
 IT
@@ -45,7 +29,7 @@ IT
 Java
 Go
 Python
-编程语言
+编程
 架构
 jdk
 
@@ -53,7 +37,10 @@ jdk
 小米
 华为
 问界
+智界
+尊界
 比亚迪
-
-军事
+特斯拉
+零跑
+自动驾驶
 
